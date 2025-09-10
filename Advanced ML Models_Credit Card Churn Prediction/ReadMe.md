@@ -1,3 +1,5 @@
+Dataset used : https://www.kaggle.com/datasets/pritech/bank-personal-loan-modellingthera-bank
+
 As a Data Scientist at Thera Bank build a classification model that will help the bank improve its services so that customers do not renounce their credit cards
 
 Objective
