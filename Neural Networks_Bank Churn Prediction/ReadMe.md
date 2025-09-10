@@ -1,3 +1,5 @@
+Dataset used : https://www.kaggle.com/datasets/saurabhbadole/bank-customer-churn-prediction-dataset
+
 Businesses like banks that provide service have to worry about the problem of 'Churn' i.e. customers leaving and joining another service provider. 
 It is important to understand which aspects of the service influence a customer's decision in this regard. 
 Management can concentrate efforts on the improvement of service, keeping in mind these priorities.
