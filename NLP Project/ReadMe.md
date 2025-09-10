@@ -1,3 +1,5 @@
 This project has 2 parts
+
 1. Develop an AI-driven sentiment analysis system that will automatically process and analyze news articles to gauge market sentiment
+
 2. Summarize the news at a weekly level to enhance the accuracy of stock price predictions and optimize investment strategies
